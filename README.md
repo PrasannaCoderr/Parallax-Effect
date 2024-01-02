@@ -4,7 +4,7 @@ So let's talk about what a Parallax Website is ,Parallax scrolling is a web desi
 
 #mernstackdeveloper #html #css #reactjs #nodejs #javascriptdeveloper #codehelp #lovebabbar
 
-![image](https://github.com/PrasannaCoderr/Parallax-Effect/assets/145119210/5232c474-e496-4f8b-8e2d-593b5cb99996)
+![image](https://github.com/PrasannaCoderr/Parallax-Effect/assets/145119210/7074e76c-e370-44d1-9371-ad2cb470f630)
 
 
 https://github.com/PrasannaCoderr/Parallax-Effect/assets/145119210/9f49f11f-5db6-4f36-af5c-7fbf86235997
