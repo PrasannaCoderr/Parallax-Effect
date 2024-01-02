@@ -6,3 +6,7 @@ So let's talk about what a Parallax Website is ,Parallax scrolling is a web desi
 
 ![image](https://github.com/PrasannaCoderr/Parallax-Effect/assets/145119210/5232c474-e496-4f8b-8e2d-593b5cb99996)
 
+
+
+https://github.com/PrasannaCoderr/Parallax-Effect/assets/145119210/16f79d67-d181-4a31-bf28-0a4f37c91312
+
